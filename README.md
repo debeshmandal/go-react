@@ -1,2 +1,2 @@
-# go-auth0
-Example with a Go webserver, auth0 authentication and a ReactJS frontend
+# go-react
+Example with a Go webserver and a ReactJS frontend

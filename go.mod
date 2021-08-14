@@ -1,4 +1,4 @@
-module github.com/debeshmandal/go-auth0
+module github.com/debeshmandal/go-react
 
 go 1.16
 
