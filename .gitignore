@@ -25,6 +25,7 @@
 
 # production
 /build
+views/build
 
 # misc
 .DS_Store
